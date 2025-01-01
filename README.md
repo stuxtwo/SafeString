@@ -1,6 +1,6 @@
-# SafeString Library
+# safestring! 
 
-SafeString is a C++ library that provides safer alternatives to traditional string manipulation functions. It incorporates bounds checking and automatic memory management to prevent vulnerabilities such as buffer overflows.
+`safestring!` is a C++ library that provides safer alternatives to traditional string manipulation functions. It incorporates bounds checking and automatic memory management to prevent vulnerabilities such as buffer overflows.
 
 ## Features
 
