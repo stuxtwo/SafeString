@@ -1,4 +1,7 @@
+<img alt="logo didn't load :(" width="300" height="300" style="border: none; margin-top: 10px;" src="https://raw.githubusercontent.com/stuxtwo/SafeString/master/misc/safestring!.jpg" align="right"/>
+
 # safestring! 
+
 
 `safestring!` is a C++ library that provides safer alternatives to traditional string manipulation functions. It incorporates bounds checking and automatic memory management to prevent vulnerabilities such as buffer overflows.
 
